@@ -242,6 +242,12 @@ var APP_DATA = {
           "pitch": 0.5405620641690998,
           "rotation": 0,
           "target": "6-7---scale-basse-grotta"
+        },
+        {
+          "yaw": 1.5680850740895416,
+          "pitch": 0.646657417541002,
+          "rotation": 1.5707963267948966,
+          "target": "3-4---ant-cancello"
         }
       ],
       "infoHotspots": []
@@ -461,6 +467,12 @@ var APP_DATA = {
           "pitch": 0.4918975185621193,
           "rotation": 0,
           "target": "12-13---cripta"
+        },
+        {
+          "yaw": 1.5372135135194291,
+          "pitch": 0.36749252574371916,
+          "rotation": 0,
+          "target": "7-8---grotta-centro"
         }
       ],
       "infoHotspots": []
